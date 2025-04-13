@@ -8,7 +8,7 @@
 <li><a target="_blank" href="https://medium.com/better-programming/javascript-regular-expressions-cheatsheet-b55b0d6886e3">A JavaScript Regular Expressions Cheat Sheet</a></li>
 <li><a target="_blank" href="https://medium.com/better-programming/basic-linux-commands-32522b154e48">Basic Linux Commands</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nick-bondarenko-b9536a1a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/mykola-bondarenko-b9536a1a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefined@MykolaBondarenko" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
 # 💻 Tech Stack:
