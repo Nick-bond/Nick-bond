@@ -1,5 +1,5 @@
 # Hello World!, I'm Nick, a Lead Software Engineer 👋🏼:
-🛜 currently working on my own [webpage](https://discoverportugaltoday.com/)<br>
+🛜 currently working on my own [webpage](https://nbteq.com/)<br>
 👨🏼‍💻 working as a software engineer since 2014 <br>
 
 <h2>✒️ Recent Posts</h2>
